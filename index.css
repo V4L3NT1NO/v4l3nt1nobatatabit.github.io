@@ -156,7 +156,7 @@ header img{
     scroll-snap-type: x proximity;
     gap: 20px;
     width:100%;
-    justify-content:center;
+    
 
 
 }
@@ -880,12 +880,13 @@ header img{
 @media (min-width: 600px){
     .tablas-scroll{
         gap: 80px;
+        justify-content:center;
     }
     .main-tables-container{
-        margin: 50px 0 0 0;
+        margin: 0 0 0 0;
     }
     .main--comiciones-container{
-        margin: 50px 0 0 0;
+        margin: 0 0 0 0;
     }
     .carta-planes--margin-right{
         margin:50px 0 0 0;
