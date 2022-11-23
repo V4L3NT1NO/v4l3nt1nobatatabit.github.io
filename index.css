@@ -867,6 +867,8 @@ header img{
 
 .footer-batatabit__container .patente-container__imagen{
     width:39px;
+    min-width: 39px;
+    min-height: 24px;
     height: 24px;
     background-image: url('./assets/iconos/papa.svg');
     background-size:cover;
