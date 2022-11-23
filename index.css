@@ -858,16 +858,16 @@ header img{
 }
 
 .footer-batatabit__container .footer-batatabit__patente-container{
-    width: 64px;
-    height: 50px;
+    width: 80px;
+    height: 70px;
     display:flex;
     flex-direction:column;
     align-items:center;
 }
 
 .footer-batatabit__container .patente-container__imagen{
-    width:78px;
-    height: 48px;
+    width:39px;
+    height: 24px;
     background-image: url('./assets/iconos/papa.svg');
     background-size:cover;
     background-position:center;
