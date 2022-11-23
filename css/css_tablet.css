@@ -1,0 +1,17 @@
+.main--cualities-container{
+    height: 600px;
+
+}
+
+.main--cualities-container .cualities--anuncios-container{
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    gap:30px;
+    margin-top: 30px;
+}
+.main--cualities-container .cualities--anuncios-container .anuncios-container{
+    margin:0px;
+}
+
